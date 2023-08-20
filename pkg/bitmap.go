@@ -5,7 +5,7 @@ import (
 )
 
 var (
-	Bitmap *bitmap.Bitmap
+	Bitmap *bitmap.BitMap
 )
 
 func init() {

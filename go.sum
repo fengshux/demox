@@ -1,2 +1,4 @@
 github.com/fengshux/bitmap v0.0.1 h1:DqdY67ksc/w1gi/FZz6sGb6ZIb2vuH2FU/zkxrrnss8=
 github.com/fengshux/bitmap v0.0.1/go.mod h1:EWTIDnQftW4c6mG8nlC4Awuzq77RfvjbYbvcGRyLhws=
+github.com/fengshux/bitmap v0.0.3 h1:stEZypkkOakv7Ow/aJbpKRu/GuofTdmkIO8+VKrPXPo=
+github.com/fengshux/bitmap v0.0.3/go.mod h1:EWTIDnQftW4c6mG8nlC4Awuzq77RfvjbYbvcGRyLhws=
